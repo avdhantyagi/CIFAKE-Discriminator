@@ -1,0 +1,12 @@
+test
+TESTSfake
+TESTSreal
+train
+2.jpg
+1.jpg
+3.jpg
+4.jpg
+DiscriminatorV1.h5
+DiscriminatorV2.h5
+test.ipynb
+.DS_Store
